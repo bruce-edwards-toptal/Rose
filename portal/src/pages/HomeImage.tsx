@@ -7,16 +7,16 @@ import PurpleOnGreySmoke from "../images/svg/PurpleOnGreySmoke";
 import Red from "../images/svg/Red";
 import RedOnBlack from "../images/svg/RedOnBlack";
 import RedOnBlack2 from "../images/svg/RedOnBlack2";
-// import RedOnBlackSmoke from "../images/svg/RedOnBlackSmoke";
-// import RedOnBlackSmoke2 from "../images/svg/RedOnBlackSmoke2";
-// import RedOnBlue from "../images/svg/RedOnBlue";
-// import RedOnBlue2 from "../images/svg/RedOnBlue2";
-// import RedOnBlueCream from "../images/svg/RedOnBlueCream";
-// import RedOnGreenSmoke from "../images/svg/RedOnGreenSmoke";
-// import RedOnGrey from "../images/svg/RedOnGrey";
-// import RedOnGrey2 from "../images/svg/RedOnGrey2";
-// import RedOnGrey3 from "../images/svg/RedOnGrey3";
-// import RedOnGreySmoke from "../images/svg/RedOnGreySmoke";
+import RedOnBlackSmoke from "../images/svg/RedOnBlackSmoke";
+import RedOnBlackSmoke2 from "../images/svg/RedOnBlackSmoke2";
+import RedOnBlue from "../images/svg/RedOnBlue";
+import RedOnBlue2 from "../images/svg/RedOnBlue2";
+import RedOnBlueCream from "../images/svg/RedOnBlueCream";
+import RedOnGreenSmoke from "../images/svg/RedOnGreenSmoke";
+import RedOnGrey from "../images/svg/RedOnGrey";
+import RedOnGrey2 from "../images/svg/RedOnGrey2";
+import RedOnGrey3 from "../images/svg/RedOnGrey3";
+import RedOnGreySmoke from "../images/svg/RedOnGreySmoke";
 import Rose from "../images/svg/Rose";
 import RoseStem from "../images/svg/RoseStem";
 
@@ -30,6 +30,16 @@ const homeimages = [
   { component: Red, h: 1024, w: 683 },
   { component: RedOnBlack, h: 1024, w: 683 },
   { component: RedOnBlack2, h: 1024, w: 683 },
+  { component: RedOnBlackSmoke, h: 1024, w: 683 },
+  { component: RedOnBlackSmoke2, h: 1024, w: 683 },
+  { component: RedOnBlue, h: 1024, w: 683 },
+  { component: RedOnBlue2, h: 1024, w: 683 },
+  { component: RedOnBlueCream, h: 1024, w: 683 },
+  { component: RedOnGreenSmoke, h: 1024, w: 683 },
+  { component: RedOnGrey, h: 1024, w: 646 },
+  { component: RedOnGrey2, h: 1024, w: 713 },
+  { component: RedOnGrey3, h: 1024, w: 769 },
+  { component: RedOnGreySmoke, h: 1024, w: 683 },
   { component: Rose, h: 169, w: 231 },
   { component: RoseStem, h: 192, w: 272 },
 ];

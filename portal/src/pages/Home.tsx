@@ -8,7 +8,7 @@ export const Home: React.FC = () => {
   } | null>(null);
 
   const [image, setImage] = useState<number>(0);
-  const numberimages: number = 11;
+  const numberimages: number = 21;
 
   useEffect(() => {
     if (parent.current) {
