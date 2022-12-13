@@ -30,6 +30,17 @@ export const Home: React.FC = () => {
         backgroundColor: "#000000",
       }}
     >
+      <div
+        style={{
+          color: "#ffffff",
+          position: "absolute",
+          // display: "flex",
+          // justifyContent: "End",
+          // left: 0,
+        }}
+      >
+        {image + 1}
+      </div>
       {parentDimensions && (
         <HomeImage parentheight={parentheight} selection={image} />
       )}
