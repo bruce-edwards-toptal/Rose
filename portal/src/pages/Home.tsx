@@ -11,7 +11,6 @@ export const Home: React.FC = () => {
   const numberimages: number = 11;
 
   useEffect(() => {
-    console.log("parent.current", parent.current);
     if (parent.current) {
       const box = parent.current.getBoundingClientRect();
       setParentDimensions({ height: box.height, width: box.width });
